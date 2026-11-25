@@ -12,7 +12,7 @@
 
 <br/>
 
-> **I solve real problems, not invented ones.** Before writing a line of code, I find where a system actually breaks — the loophole, the bottleneck, the step people quietly work around — then let real feedback shape a fix that holds up.
+> **I solve real problems, not invented ones.** Before writing a line of code, I find where a system actually breaks (the loophole, the bottleneck, the step people quietly work around), then let real feedback shape a fix that holds up.
 
 <p align="center"><b>🍒 1,800+ downloads</b> of Cherry Spot &nbsp;·&nbsp; <b>40+ releases</b> shipped &nbsp;·&nbsp; <b>Open to collaboration</b></p>
 
