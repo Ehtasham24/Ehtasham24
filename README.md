@@ -14,6 +14,8 @@
 
 > **I solve real problems, not invented ones.** Before writing a line of code, I find where a system actually breaks — the loophole, the bottleneck, the step people quietly work around — then let real feedback shape a fix that holds up.
 
+<p align="center"><b>🍒 1,000+ downloads</b> of Cherry Spot &nbsp;·&nbsp; <b>40+ releases</b> shipped &nbsp;·&nbsp; <b>Open to collaboration</b></p>
+
 <br/>
 
 ## 🧭 How I Work
@@ -51,6 +53,7 @@ A desktop app that turns Git cherry-picking from a chore into a few clicks.
 | **[POS](https://github.com/Ehtasham24/POS)** | Shops lose sales when the internet drops → multi-tenant point-of-sale with offline registers, tenant isolation and a Windows installer. | Node.js · Express · React · Nginx |
 | **[PropChain](https://github.com/Ehtasham24/PropChain)** | Property deals rely on middlemen and editable records → a marketplace where ownership history lives on Ethereum. | Solidity · Next.js · NestJS · MongoDB |
 | **[MediChain](https://github.com/Ehtasham24/MediChain)** | Counterfeit medicine slips through opaque supply chains → manufacturer and distributor portals that record every handoff on-chain. | Solidity · React · Node.js |
+| **[Express-Boilerplate](https://github.com/Ehtasham24/Express-Boilerplate)** | Every new API repeats the same setup and error-handling boilerplate → a production-ready Express 5 starter with MVC structure, centralized errors and versioned routes. | Node.js · Express · MongoDB |
 
 <br/>
 
@@ -107,16 +110,12 @@ An avid learner of **system design**, always exploring new horizons in the field
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 Languages I Ship In
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ehtasham24&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&theme=github_dark&bg_color=0d1117&icon_color=e11d48&title_color=e11d48" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtasham24&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e11d48" alt="Top languages"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtasham24&layout=compact&langs_count=6&hide=css,scss,html,plpgsql,kotlin&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e11d48" alt="Most used languages"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ehtasham24&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e11d48&fire=e11d48&currStreakLabel=e11d48" alt="GitHub streak"/>
-</div>
 
 <br/>
 
