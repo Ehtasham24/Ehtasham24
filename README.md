@@ -14,7 +14,7 @@
 
 > **I solve real problems, not invented ones.** Before writing a line of code, I find where a system actually breaks — the loophole, the bottleneck, the step people quietly work around — then let real feedback shape a fix that holds up.
 
-<p align="center"><b>🍒 1,000+ downloads</b> of Cherry Spot &nbsp;·&nbsp; <b>40+ releases</b> shipped &nbsp;·&nbsp; <b>Open to collaboration</b></p>
+<p align="center"><b>🍒 1,800+ downloads</b> of Cherry Spot &nbsp;·&nbsp; <b>40+ releases</b> shipped &nbsp;·&nbsp; <b>Open to collaboration</b></p>
 
 <br/>
 
@@ -39,7 +39,7 @@ A desktop app that turns Git cherry-picking from a chore into a few clicks.
 |:---|:---|
 | **The problem** | Finding the right commits means scrolling through long logs and copying hashes, and conflicts get untangled by hand. Slow and easy to get wrong. |
 | **The solution** | Search commits, pick them across branches, and resolve conflicts with a built-in 3-way merge tool and reflog explorer. |
-| **The result** | **1,000+ downloads** across 40+ releases, each one shaped by user feedback. Signed installers with auto-updates for Windows and Linux. |
+| **The result** | **1,800+ downloads** across 40+ releases, each one shaped by user feedback. Signed installers with auto-updates for Windows and Linux. |
 | **Built with** | Rust · Tauri · TypeScript |
 
 <p><a href="https://github.com/Ehtasham24/cherrySpot-releases/releases/latest"><b>⬇️ Download the latest version →</b></a></p>
